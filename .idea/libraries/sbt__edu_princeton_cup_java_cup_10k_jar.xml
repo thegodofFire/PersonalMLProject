@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: edu.princeton.cup:java-cup:10k:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.princeton.cup/java-cup/jars/java-cup-10k.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.princeton.cup/java-cup/srcs/java-cup-10k-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

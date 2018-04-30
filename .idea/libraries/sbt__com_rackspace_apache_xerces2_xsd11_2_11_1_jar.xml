@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.rackspace.apache:xerces2-xsd11:2.11.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.rackspace.apache/xerces2-xsd11/jars/xerces2-xsd11-2.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.rackspace.apache/xerces2-xsd11/srcs/xerces2-xsd11-2.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

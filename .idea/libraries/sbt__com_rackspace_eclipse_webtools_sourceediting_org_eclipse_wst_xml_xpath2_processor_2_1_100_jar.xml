@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.rackspace.eclipse.webtools.sourceediting:org.eclipse.wst.xml.xpath2.processor:2.1.100:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.rackspace.eclipse.webtools.sourceediting/org.eclipse.wst.xml.xpath2.processor/jars/org.eclipse.wst.xml.xpath2.processor-2.1.100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.rackspace.eclipse.webtools.sourceediting/org.eclipse.wst.xml.xpath2.processor/srcs/org.eclipse.wst.xml.xpath2.processor-2.1.100-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
