@@ -4,7 +4,7 @@
 		module="vicki$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180430095054"
+		publication="20180514190746"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
